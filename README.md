@@ -9,6 +9,6 @@ regression problem and minimizing the Mean Squared Error
 as the basis for our facial landmarks detection model, and its
 performance on the ImageNet classification task serves as a
 starting point for fine-tuning on the landmark detection task.
-Our based model achieved a MSE loss of 27.84 on the test set.
+Our best model achieved a MSE loss of 27.84 on the test set.
 
 For more information please read: [FLD](./FLD.pdf)
